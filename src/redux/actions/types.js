@@ -1,0 +1,9 @@
+export const LOGIN_USER = 'LOGIN_USER';
+export const REGISTER_USER = 'REGISTER_USER';
+export const AUTO_LOGIN = 'AUTO_LOGIN';
+
+export const FETCH_NEWS = 'FETCH_NEWS';
+export const GET_GAMES = 'GET_GAMES';
+export const FETCH_GAMES_TEAM = 'FETCH_GAMES_TEAM';
+export const FETCH_GAMES_SCHEDULE = 'FETCH_GAMES_SCHEDULE';
+export const FETCH_GAMES_SCHEDULE_TEAM = 'FETCH_GAMES_SCHEDULE_TEAM';
